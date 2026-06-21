@@ -1,0 +1,187 @@
+{
+  "repository": "behavior-change-habit-formation-code",
+  "organization": "Content-Catalyst-LLC",
+  "series_title": "Behavior Change and Habit Formation",
+  "kind": "article-map",
+  "description": "Companion repository for behavior change, habit formation, routines, cues, friction, self-regulation, intervention design, maintenance, and relapse.",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "upgrade_tag": "behavioral-science-upgrade-20260621-003706",
+  "standard": "sustainable-catalyst-article-map-code-repo-v2",
+  "article_count": 25,
+  "article_root": "articles/",
+  "shared_root": "_shared/",
+  "default_article_layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculator_layer_required": true,
+  "articles": [
+    {
+      "slug": "what-is-behavior-change",
+      "title": "What Is Behavior Change?",
+      "summary": "A foundational article on changing action patterns across context and time.",
+      "path": "articles/what-is-behavior-change/"
+    },
+    {
+      "slug": "why-information-alone-rarely-changes-behavior",
+      "title": "Why Information Alone Rarely Changes Behavior",
+      "summary": "Why awareness often fails without context, motivation, and design.",
+      "path": "articles/why-information-alone-rarely-changes-behavior/"
+    },
+    {
+      "slug": "behavior-as-pattern-routine-and-environment",
+      "title": "Behavior as Pattern, Routine, and Environment",
+      "summary": "Behavior as repeated action situated in material and social settings.",
+      "path": "articles/behavior-as-pattern-routine-and-environment/"
+    },
+    {
+      "slug": "psychology-of-habit-formation",
+      "title": "The Psychology of Habit Formation",
+      "summary": "How habits emerge, stabilize, and become automatic.",
+      "path": "articles/psychology-of-habit-formation/"
+    },
+    {
+      "slug": "automaticity-and-repeated-action",
+      "title": "Automaticity and Repeated Action",
+      "summary": "How repeated behavior becomes less effortful and more automatic.",
+      "path": "articles/automaticity-and-repeated-action/"
+    },
+    {
+      "slug": "behavior-change-as-systems-design",
+      "title": "Behavior Change as Systems Design",
+      "summary": "Behavior change as environment, feedback, friction, and support.",
+      "path": "articles/behavior-change-as-systems-design/"
+    },
+    {
+      "slug": "cues-triggers-and-behavioral-context",
+      "title": "Cues, Triggers, and Behavioral Context",
+      "summary": "How contextual cues initiate and stabilize action.",
+      "path": "articles/cues-triggers-and-behavioral-context/"
+    },
+    {
+      "slug": "habit-loops-cue-routine-reward",
+      "title": "Habit Loops: Cue, Routine, Reward",
+      "summary": "A practical model of habit architecture.",
+      "path": "articles/habit-loops-cue-routine-reward/"
+    },
+    {
+      "slug": "friction-convenience-and-environmental-design",
+      "title": "Friction, Convenience, and Environmental Design",
+      "summary": "How ease and effort shape behavioral patterns.",
+      "path": "articles/friction-convenience-and-environmental-design/"
+    },
+    {
+      "slug": "repetition-stability-and-behavioral-momentum",
+      "title": "Repetition, Stability, and Behavioral Momentum",
+      "summary": "How repetition builds durable behavioral tendencies.",
+      "path": "articles/repetition-stability-and-behavioral-momentum/"
+    },
+    {
+      "slug": "breaking-bad-habits",
+      "title": "Breaking Bad Habits",
+      "summary": "How unwanted routines weaken, shift, or get replaced.",
+      "path": "articles/breaking-bad-habits/"
+    },
+    {
+      "slug": "building-durable-habits",
+      "title": "Building Durable Habits",
+      "summary": "How habits persist through design, feedback, and identity.",
+      "path": "articles/building-durable-habits/"
+    },
+    {
+      "slug": "relapse-recovery-and-behavioral-drift",
+      "title": "Relapse, Recovery, and Behavioral Drift",
+      "summary": "Why behavior change often decays and how maintenance works.",
+      "path": "articles/relapse-recovery-and-behavioral-drift/"
+    },
+    {
+      "slug": "goal-setting-and-behavioral-commitment",
+      "title": "Goal Setting and Behavioral Commitment",
+      "summary": "How goals become behavior through constraints and commitments.",
+      "path": "articles/goal-setting-and-behavioral-commitment/"
+    },
+    {
+      "slug": "self-control-and-delayed-gratification",
+      "title": "Self-Control and Delayed Gratification",
+      "summary": "Temporal tradeoffs, temptation, and self-regulation.",
+      "path": "articles/self-control-and-delayed-gratification/"
+    },
+    {
+      "slug": "implementation-intentions",
+      "title": "Implementation Intentions",
+      "summary": "If-then plans and behavior under realistic conditions.",
+      "path": "articles/implementation-intentions/"
+    },
+    {
+      "slug": "commitment-devices",
+      "title": "Commitment Devices",
+      "summary": "Systems that help align present behavior with long-term goals.",
+      "path": "articles/commitment-devices/"
+    },
+    {
+      "slug": "identity-based-behavior-change",
+      "title": "Identity-Based Behavior Change",
+      "summary": "Behavior change rooted in self-concept and social identity.",
+      "path": "articles/identity-based-behavior-change/"
+    },
+    {
+      "slug": "feedback-progress-and-motivation",
+      "title": "Feedback, Progress, and Motivation",
+      "summary": "How feedback systems sustain change.",
+      "path": "articles/feedback-progress-and-motivation/"
+    },
+    {
+      "slug": "emotional-regulation-and-habit-stability",
+      "title": "Emotional Regulation and Habit Stability",
+      "summary": "Emotion, stress, and the maintenance of routines.",
+      "path": "articles/emotional-regulation-and-habit-stability/"
+    },
+    {
+      "slug": "transtheoretical-model-of-change",
+      "title": "The Transtheoretical Model of Change",
+      "summary": "Stages of change, readiness, action, and maintenance.",
+      "path": "articles/transtheoretical-model-of-change/"
+    },
+    {
+      "slug": "com-b-model",
+      "title": "COM-B: Capability, Opportunity, and Motivation",
+      "summary": "The COM-B model and its role in intervention design.",
+      "path": "articles/com-b-model/"
+    },
+    {
+      "slug": "behavior-change-wheel",
+      "title": "The Behavior Change Wheel",
+      "summary": "Intervention functions and policy categories for behavior change.",
+      "path": "articles/behavior-change-wheel/"
+    },
+    {
+      "slug": "fogg-behavior-model",
+      "title": "Fogg Behavior Model",
+      "summary": "Motivation, ability, prompt, and behavior.",
+      "path": "articles/fogg-behavior-model/"
+    },
+    {
+      "slug": "sustainability-behavior-change",
+      "title": "Sustainability Behavior Change",
+      "summary": "Behavior change in climate, energy, conservation, and consumption.",
+      "path": "articles/sustainability-behavior-change/"
+    }
+  ],
+  "responsible_use": "Educational and research-scaffolding examples only; not operational guidance without validation and ethical review."
+}

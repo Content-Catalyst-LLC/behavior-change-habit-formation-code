@@ -1,0 +1,33 @@
+{
+  "slug": "repetition-stability-and-behavioral-momentum",
+  "title": "Repetition, Stability, and Behavioral Momentum",
+  "series_title": "Behavior Change and Habit Formation",
+  "repository": "behavior-change-habit-formation-code",
+  "path": "articles/repetition-stability-and-behavioral-momentum/",
+  "summary": "How repetition builds durable behavioral tendencies.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

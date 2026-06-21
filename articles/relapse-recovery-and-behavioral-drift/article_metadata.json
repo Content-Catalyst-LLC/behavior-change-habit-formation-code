@@ -1,0 +1,33 @@
+{
+  "slug": "relapse-recovery-and-behavioral-drift",
+  "title": "Relapse, Recovery, and Behavioral Drift",
+  "series_title": "Behavior Change and Habit Formation",
+  "repository": "behavior-change-habit-formation-code",
+  "path": "articles/relapse-recovery-and-behavioral-drift/",
+  "summary": "Why behavior change often decays and how maintenance works.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}
